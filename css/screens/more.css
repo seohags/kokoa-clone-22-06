@@ -17,7 +17,7 @@
 }
 
 .more-suggestions__icon {
-  margin-right: 30px;
+  margin-right: 40px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -27,7 +27,7 @@
   width: 60px;
   height: 60px;
   background-color: var(--white);
-  border-radius: 10px;
+  border-radius: 15px;
   display: flex;
   justify-content: center;
   align-items: center;
